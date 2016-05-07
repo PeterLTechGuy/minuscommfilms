@@ -45,7 +45,7 @@ p {
 }
 
 a {
-    color: /*#35BFFF*/#EDB68A;
+    color: #35BFFF/*#EDB68A*/;
     /*color: #42dca3;*/
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
@@ -149,7 +149,7 @@ a:focus {
     padding: 75px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/onionsoups.jpg) no-repeat bottom center scroll;
+    background: url(../img/intro-bg-small.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -267,7 +267,7 @@ a:focus {
     width: 100%;
     padding: 50px;
     color: #fff;
-    background: url(../img/richardmic.jpg) no-repeat center center scroll;
+    background: url(../img/screenplay.jpg) no-repeat center center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -279,7 +279,7 @@ a:focus {
     width: 100%;
     padding: 50px;
     color: #fff;
-    background: url(../img/richardnyancat.jpg) no-repeat center center scroll;
+    background: url(../img/downloads-bg-3.jpg) no-repeat center center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -309,17 +309,17 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid /*#35BFFF*/#EDB68A;
-    color: /*#35BFFF*/#EDB68A;
+    border: 1px solid #35BFFF/*#EDB68A*/;
+    color: #35BFFF/*#EDB68A*/;
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid /*#35BFFF*/#EDB68A;
+    border: 1px solid #35BFFF/*#EDB68A*/;
     outline: 0;
     color: #000;
-    background-color: #EDB68A/*#35BFFF*/;
+    background-color: /*#EDB68A*/#35BFFF;
 }
 
 ul.banner-social-buttons {
