@@ -45,7 +45,7 @@ p {
 }
 
 a {
-    color: #35BFFF;
+    color: /*#35BFFF*/#EDB68A;
     /*color: #42dca3;*/
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
@@ -309,17 +309,17 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid #35BFFF;
-    color: #35BFFF;
+    border: 1px solid /*#35BFFF*/#EDB68A;
+    color: /*#35BFFF*/#EDB68A;
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #35BFFF;
+    border: 1px solid /*#35BFFF*/#EDB68A;
     outline: 0;
     color: #000;
-    background-color: #35BFFF;
+    background-color: #EDB68A/*#35BFFF*/;
 }
 
 ul.banner-social-buttons {
