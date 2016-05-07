@@ -267,13 +267,24 @@ a:focus {
     width: 100%;
     padding: 50px;
     color: #fff;
+    /*background: url(../img/downloads-bg-3.jpg) no-repeat center center scroll;*/
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.about-section {
+    width: 100%;
+    padding: 50px;
+    color: #fff;
     background: url(../img/downloads-bg-3.jpg) no-repeat center center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-
 }
 
 @media(min-width:767px) {
